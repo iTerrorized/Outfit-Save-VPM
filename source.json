@@ -1,0 +1,22 @@
+{
+    "name": "Outfit Save System",
+    "id": "dev.terrorized.SaveListing",
+    "url": "https://iterrorized.github.io/Outfit-Save-VPM/index.json",
+    "author": {
+        "email": "xterrorized@outlook.com",
+        "name": "Terrorized",
+        "url": "https://terrorized.dev"
+    },
+    "description": "Save and load parameter configurations for VRChat avatars at runtime",
+    "infoLink": {
+        "url": "https://terrorized.dev",
+        "text": "Website"
+    },
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "iTerrorized/dev.terrorized.drm",
+        "iTerrorized/Outfit-Save-System"
+    ],
+    "packages": [],
+    "lastUpdated": "2026-03-28"
+}
